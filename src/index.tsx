@@ -127,6 +127,10 @@ app.get('/', (c) =>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Annamalai Palanikumar — Full Stack Developer</title>
+        <meta property="og:title" content="Annamalai Palanikumar — Full Stack Developer" />
+        <meta property="og:type" content="profile" />
+        <meta property="og:description" content="Full Stack Developer with 9 years of IT experience building scalable systems." />
+        <meta name="twitter:card" content="summary" />
         <script src="https://cdn.tailwindcss.com" />
       </head>
       <body class="bg-slate-950">
